@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f61d319-1370-42c5-a84a-f38e91f52cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/go/cmd/cmd1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/cmd/server/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/src/service/service.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/go/gen.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/cmd/client/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/cmd/client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/cmd/client/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

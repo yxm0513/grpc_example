@@ -25,7 +25,7 @@ func main() {
 
 	resp, err = client.GetInfo(context.Background(), &service.Request{Id: "1"})
 	if err != nil {
-		log.Fatalf("Responeerr: %v", err)
+		log.Fatalf("Respone err: %v", err)
 	}
 	log.Printf("Respone 2: %s", resp)
 }
