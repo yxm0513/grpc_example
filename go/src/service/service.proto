@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option go_package = "service/";
+
+service Demo {
+    rpc GetInfo(Request) returns (Info) {}
+}
+
+message Info {
+    string id = 1;
+    string message = 2;
+}
+
+message Request {
+    string id = 1;
+}
+
+message Empty {
+}
