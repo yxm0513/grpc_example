@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f61d319-1370-42c5-a84a-f38e91f52cd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rust/src/client.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust/src/server.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/cmd/client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/cmd/client/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python" beforeDir="false" afterPath="$PROJECT_DIR$/python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/service/service_pb2_grpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/service/service_pb2_grpc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

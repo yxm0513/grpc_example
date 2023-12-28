@@ -1,0 +1,28 @@
+[package]
+name = "grpc-demo-tonic"
+version = "0.1.0"
+authors = ["test"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# server binary
+[[bin]]
+    name = "server"
+    path = "src/server.rs"
+
+# client binary
+[[bin]]
+    name = "client"
+    path = "src/client.rs"
+
+[dependencies]
+tonic = "0.7"
+prost = "0.10.1"
+tokio = { version = "1.18", features = ["macros", "rt-multi-thread"] }
+
+[build-dependencies]
+protoc = "3.0.0-alpha.3"
+protobuf3 = "2.27.2"
+tonic-build = "0.7"
+protoc-rust-grpc = "0.8.2"
