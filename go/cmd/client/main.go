@@ -19,9 +19,9 @@ func main() {
 	client := service.NewDemoClient(conn)
 	resp, err := client.GetInfo(context.Background(), &service.Request{Id: "0"})
 	if err != nil {
-		log.Fatalf("Respone err: %v", err)
+		log.Fatalf("Response err: %v", err)
 	}
-	log.Printf("Respone 1: %s", resp)
+	log.Printf("Response 1: %s", resp)
 
 	resp, err = client.GetInfo(context.Background(), &service.Request{Id: "1"})
 	if err != nil {

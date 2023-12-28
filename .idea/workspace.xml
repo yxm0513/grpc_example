@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f61d319-1370-42c5-a84a-f38e91f52cd9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/commands.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/complex/complex_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/complex_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/complex/complex_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/complex/complex_pb2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/enums/enum_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/enum_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/enums/enum_example_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/enums/enum_example_pb2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/enums/enums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/simple/simple.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/simple/simple_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/simple_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/simple/simple_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/simple/simple_pb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/cmd/client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/cmd/client/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python" beforeDir="false" afterPath="$PROJECT_DIR$/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/service/service_pb2_grpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/service/service_pb2_grpc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +19,7 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/opt/go/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,10 +42,10 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/yangxinming/code/golang/grpc_example/go/cmd/server",
+    "last_opened_file_path": "/Users/yangxinming/code/golang/grpc_example/python",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
@@ -60,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python" />
       <recent name="$PROJECT_DIR$/go/cmd/server" />
       <recent name="$PROJECT_DIR$/go/cmd/cmd1" />
       <recent name="$PROJECT_DIR$/go/cmd/client" />
